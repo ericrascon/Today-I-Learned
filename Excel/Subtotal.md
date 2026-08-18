@@ -4,7 +4,7 @@ The subtotal formula calculates the value of a selected/filtered range of cells 
 
 It's best practice to use the subtotal formula after you've created your Table Filters but before you actually filter the range to avoid formula errors.
 
-`SUBTOTAL(function_num,ref1,[ref2],...)`
+`=SUBTOTAL(function_num,ref1,[ref2],...)`
 
 ## Example
 
