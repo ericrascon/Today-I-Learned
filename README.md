@@ -15,3 +15,5 @@ _9 TILs and the tally keeps climbing._
 ---
 
 ### Excel
+
+-{Subtotal}(https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Subtotal.md)
