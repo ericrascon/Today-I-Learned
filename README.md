@@ -10,7 +10,7 @@ _9 TILs and the tally keeps climbing._
 
 ### Categories
 
-*[Excel](#Excel)
+* [Excel](#Excel)
 
 ---
 
