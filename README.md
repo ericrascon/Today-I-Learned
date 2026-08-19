@@ -16,6 +16,7 @@ _4 TILs and the tally keeps climbing._
 
 ### Excel
 
+- [HLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/HLOOKUP.md)
 - [Pivot Table - Classic View](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Pivot%20Table%20-%20Classic%20View.md)
 - [Pivot Table - Repeating Labels](https://github.com/ericrascon/Today-I-Learned/blob/main/Pivot%20Table%20-%20Repeating%20Labels.md)
 - [SUBTOTAL](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Subtotal.md)
