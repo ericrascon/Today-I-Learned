@@ -11,10 +11,10 @@ The VOOLUP will always only look at numbers from the right. The return value of 
 
 `=VLOOKUP($F5,Table2,2,FALSE)` or `=VLOOKUP(F2,A2:B11,2,FALSE)` (range)
 
-# Examples
+## Examples
 
 <img width="475" height="297" alt="image" src="https://github.com/user-attachments/assets/c770b078-48c5-4707-9bb4-c7942d5e433d" />
 
-# Best Practice
+## Best Practice
 
 Create a table before starting a VLOOKUP function — will help with avoiding formula errors.
