@@ -1,4 +1,4 @@
-# Right
+# RIGHT Formula
 
 The RIGHT function returns back the first few number of characters from the right.
 
