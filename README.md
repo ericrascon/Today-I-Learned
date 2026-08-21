@@ -17,6 +17,7 @@ _8 TILs and the tally keeps climbing._
 
 ### Bookkeeping
 - [Double Entry Cheat Sheet](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Double%20Entry%20Cheat%20Sheet.md)
+- [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
 
 ### Excel
 
