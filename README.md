@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings. What better way than to keep it in a public repository? 
 
-_9 TILs and the tally keeps climbing._
+_10 TILs and the tally keeps climbing._
 
 ---
 
@@ -17,6 +17,7 @@ _9 TILs and the tally keeps climbing._
 
 ### Bookkeeping
 - [Double Entry Cheat Sheet](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Double%20Entry%20Cheat%20Sheet.md)
+- [General Ledger](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/General%20Ledger.md)
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
 
 ### Excel
