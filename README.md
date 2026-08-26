@@ -35,4 +35,5 @@ _11 TILs and the tally keeps climbing._
 
 ### Productivity - Tools that will make your accounting/finance life easier
 
+- [Bank Statement Conversion](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Bank%20Statement%20Conversion.md)
 - [Bank Statement/GL Reconciliation Template](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Bank%20Statement%20&%20GL%20Reconciliation%20Template.md)
