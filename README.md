@@ -12,8 +12,7 @@ _10 TILs and the tally keeps climbing._
 
 * [Bookkeeping](#Bookkeeping)
 * [Excel](#Excel)
-* [Productivity - Tools that will make your accounting/finance life easier](#Productivity - Tools that will make your accounting/finance life easier)
-* 
+* [Productivity - Tools that will make your accounting/finance life easier](#Productivity)
 
 ---
 
