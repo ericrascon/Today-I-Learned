@@ -31,33 +31,6 @@ _10 TILs and the tally keeps climbing._
 - [SUBTOTAL](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Subtotal.md)
 - [VLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/VLOOKUP.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### Productivity - Tools that will make your accounting/finance life easier
