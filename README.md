@@ -12,6 +12,8 @@ _10 TILs and the tally keeps climbing._
 
 * [Bookkeeping](#Bookkeeping)
 * [Excel](#Excel)
+* [Productivity - Tools that will make your accounting/finance life easier](#Productivity - Tools that will make your accounting/finance life easier)
+* 
 
 ---
 
@@ -30,6 +32,8 @@ _10 TILs and the tally keeps climbing._
 - [SUBTOTAL](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Subtotal.md)
 - [VLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/VLOOKUP.md)
 
-### Productivity (Tools that will make your accounting/finance life easier)
+---
+
+### Productivity - Tools that will make your accounting/finance life easier
 
 - [Bank Statement/GL Reconciliation Template](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Bank%20Statement%20&%20GL%20Reconciliation%20Template.md)
