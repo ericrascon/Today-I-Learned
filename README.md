@@ -12,6 +12,7 @@ _15 TILs and the tally keeps climbing._
 
 * [Bookkeeping](#Bookkeeping)
 * [Excel](#Excel)
+* [Month End](#Month-End)
 * [Productivity - Tools that will make your accounting/finance life easier](#productivity---tools-that-will-make-your-accountingfinance-life-easier)
 
 ---
@@ -21,8 +22,6 @@ _15 TILs and the tally keeps climbing._
 - [Double Entry Cheat Sheet](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Double%20Entry%20Cheat%20Sheet.md)
 - [General Ledger](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/General%20Ledger.md)
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
-
----
 
 ### Excel
 
@@ -34,7 +33,8 @@ _15 TILs and the tally keeps climbing._
 - [SUBTOTAL](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Subtotal.md)
 - [VLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/VLOOKUP.md)
 
----
+### Month End
+
 
 ### Productivity - Tools that will make your accounting/finance life easier
 
