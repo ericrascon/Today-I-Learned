@@ -22,6 +22,8 @@ _15 TILs and the tally keeps climbing._
 - [General Ledger](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/General%20Ledger.md)
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
 
+---
+
 ### Excel
 
 - [LEFT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/LEFT.md)
