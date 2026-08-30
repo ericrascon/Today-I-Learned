@@ -14,4 +14,5 @@ There are many types of accruals, but these 4 tend to be the most common.
 # Sources
 
 https://www.accountingtools.com/articles/accruals-concept#fromHistory
+
 https://www.youtube.com/watch?v=C8UuX75ZarU&t=146s
