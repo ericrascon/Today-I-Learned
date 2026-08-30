@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings. What better way than to keep it in a public repository? 
 
-_15 TILs and the tally keeps climbing._
+_16 TILs and the tally keeps climbing._
 
 ---
 
@@ -34,6 +34,7 @@ _15 TILs and the tally keeps climbing._
 - [VLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/VLOOKUP.md)
 
 ### Month End
+- [Accruals](https://github.com/ericrascon/Today-I-Learned/blob/main/Month%20End/Accruals.md)
 
 
 ### Productivity - Tools that will make your accounting/finance life easier
