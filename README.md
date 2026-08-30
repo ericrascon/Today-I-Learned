@@ -34,7 +34,7 @@ _16 TILs and the tally keeps climbing._
 - [VLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/VLOOKUP.md)
 
 ### Month End
-- [Accruals](https://github.com/ericrascon/Today-I-Learned/blob/main/Month%20End/Accruals.md)
+- [Accruals Process](https://github.com/ericrascon/Today-I-Learned/blob/main/Month%20End/Accruals.md)
 
 
 ### Productivity - Tools that will make your accounting/finance life easier
