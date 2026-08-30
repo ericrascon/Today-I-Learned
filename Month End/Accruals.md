@@ -4,7 +4,7 @@ An accrual is a type of journal entry that records the revenues and expenses of 
 
 There are many types of accruals, but these 4 tend to be the most common.
 
-### Examples
+## Examples
 
 1. Expense accrual for interest: Accrued interest is the accumulation of an interest expense since it's last payment.
 2. Expense accrual for supplier goods and services: A supplier provided a service or delivered goods on July 25th but didn't send the invoice to get paid until August 1st.
