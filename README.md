@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings. What better way than to keep it in a public repository? 
 
-_17 TILs and the tally keeps climbing._
+_18 TILs and the tally keeps climbing._
 
 ---
 
@@ -42,6 +42,6 @@ _17 TILs and the tally keeps climbing._
 
 - [Bank Statement Conversion](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Bank%20Statement%20Conversion.md)
 - [Bank Statement/GL Reconciliation Template](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Bank%20Statement%20&%20GL%20Reconciliation%20Template.md)
-- [[Balance Sheet Reconciliation Template](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Balance%20Sheet%20Reconciliation%20Template.md)
+- [Balance Sheet Reconciliation Template](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Balance%20Sheet%20Reconciliation%20Template.md)
 - [Tabula - Extracting Specific Data Tables](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Tabula.md)
 - [PDF24 - split/merge/extract/rotate PDFs](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/PDF24.md)
