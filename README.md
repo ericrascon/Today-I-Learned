@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings. What better way than to keep it in a public repository? 
 
-_20 TILs and the tally keeps climbing._
+_21 TILs and the tally keeps climbing._
 
 ---
 
@@ -26,6 +26,7 @@ _20 TILs and the tally keeps climbing._
 
 ### Excel
 
+-[GROUPBY](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/GROUPBY.md)
 - [LEFT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/LEFT.md)
 - [RIGHT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/RIGHT.md)
 - [HLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/HLOOKUP.md)
