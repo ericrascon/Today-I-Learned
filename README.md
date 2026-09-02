@@ -26,7 +26,7 @@ _21 TILs and the tally keeps climbing._
 
 ### Excel
 
--[GROUPBY](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/GROUPBY.md)
+- [GROUPBY](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/GROUPBY.md)
 - [LEFT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/LEFT.md)
 - [RIGHT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/RIGHT.md)
 - [HLOOKUP](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/HLOOKUP.md)
