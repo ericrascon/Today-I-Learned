@@ -11,6 +11,7 @@ _21 TILs and the tally keeps climbing._
 ### Categories
 
 * [Bookkeeping](#Bookkeeping)
+* [Financial Analysis]
 * [Excel](#Excel)
 * [Month End](#Month-End)
 * [Productivity - Tools that will make your accounting/finance life easier](#productivity---tools-that-will-make-your-accountingfinance-life-easier)
@@ -23,6 +24,9 @@ _21 TILs and the tally keeps climbing._
 - [Double Entry Cheat Sheet](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Double%20Entry%20Cheat%20Sheet.md)
 - [General Ledger](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/General%20Ledger.md)
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
+
+### Financial Analysis
+-[Variance Analysis](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Analysis/Variance%20Analysis.md)
 
 ### Excel
 
