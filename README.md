@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings. What better way than to keep it in a public repository? 
 
-_22 TILs and the tally keeps climbing._
+_23 TILs and the tally keeps climbing._
 
 ---
 
@@ -26,6 +26,7 @@ _22 TILs and the tally keeps climbing._
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
 
 ### Financial Analysis
+- [Favorable vs Unfavorable Variance](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Analysis/Variance%20Analysis.md)
 - [Variance Analysis](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Analysis/Variance%20Analysis.md)
 
 ### Excel
