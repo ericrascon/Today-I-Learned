@@ -26,7 +26,7 @@ _21 TILs and the tally keeps climbing._
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
 
 ### Financial Analysis
--[Variance Analysis](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Analysis/Variance%20Analysis.md)
+- [Variance Analysis](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Analysis/Variance%20Analysis.md)
 
 ### Excel
 
