@@ -9,4 +9,5 @@ An unfavorable variance is a financial outcome/results on  actual revenue or inc
 # Sources
 
 https://www.financialprofessionals.org/glossary/variance-analysis
-https://www.financialprofessionals.org/glossary/variance-analysis
+
+https://mercury.com/blog/favorable-vs-unfavorable-variance
