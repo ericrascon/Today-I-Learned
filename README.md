@@ -56,4 +56,4 @@ _23 TILs and the tally keeps climbing._
 - [Windows - Increase Productivity With Microsoft PowerToys](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Windows%20-%20Microsoft%20PowerToys.md)
 
 ### Teamwork & Communication
-- [Amazon's Pizza Teams](https://github.com/erascon7/TIL/blob/main/Teamwork%20%26%20Communication/Amazon's%20Pizza%20Teams.md)
+- [Amazon's Pizza Teams](https://github.com/ericrascon/Today-I-Learned/blob/main/Teamwork%20%26%20Communication/Amazon's%20Pizza%20Teams.md)
