@@ -15,6 +15,7 @@ _23 TILs and the tally keeps climbing._
 * [Excel](#Excel)
 * [Month End](#Month-End)
 * [Productivity - Tools that will make your accounting/finance life easier](#productivity---tools-that-will-make-your-accountingfinance-life-easier)
+* [Teamwork & Communication](#teamwork--communication)
 
 ---
 
@@ -53,3 +54,6 @@ _23 TILs and the tally keeps climbing._
 - [PDF24 - split/merge/extract/rotate PDFs](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/PDF24.md)
 - [Tabula - Extracting Specific Data Tables](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Tabula.md)
 - [Windows - Increase Productivity With Microsoft PowerToys](https://github.com/ericrascon/Today-I-Learned/blob/main/Productivity/Windows%20-%20Microsoft%20PowerToys.md)
+
+### Teamwork & Communication
+- [Amazon's Pizza Teams](https://github.com/erascon7/TIL/blob/main/Teamwork%20%26%20Communication/Amazon's%20Pizza%20Teams.md)
