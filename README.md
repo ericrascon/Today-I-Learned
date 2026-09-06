@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings as I make progress towards my CPA. What better way than to keep it in a public repository? 
 
-_24 TILs and the tally keeps climbing._
+_25 TILs and the tally keeps climbing._
 
 ---
 
@@ -58,3 +58,4 @@ _24 TILs and the tally keeps climbing._
 ### Teamwork & Communication
 - [Amazon's Pizza Teams](https://github.com/ericrascon/Today-I-Learned/blob/main/Teamwork%20%26%20Communication/Amazon's%20Pizza%20Teams.md)
 - [Building Trust Through Coffee Chats](https://github.com/ericrascon/Today-I-Learned/blob/main/Teamwork%20%26%20Communication/Building%20Trust%20Through%20Coffee%20Chats.md)
+- [Building Trust Through Reliability](https://github.com/ericrascon/Today-I-Learned/blob/main/Teamwork%20%26%20Communication/Building%20Trust%20Through%20Reliability.md)
