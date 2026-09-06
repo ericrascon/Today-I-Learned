@@ -57,3 +57,4 @@ _24 TILs and the tally keeps climbing._
 
 ### Teamwork & Communication
 - [Amazon's Pizza Teams](https://github.com/ericrascon/Today-I-Learned/blob/main/Teamwork%20%26%20Communication/Amazon's%20Pizza%20Teams.md)
+- [Building Trust Through Coffee Chats](https://github.com/ericrascon/Today-I-Learned/blob/main/Teamwork%20%26%20Communication/Building%20Trust%20Through%20Coffee%20Chats.md)
