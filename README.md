@@ -11,6 +11,7 @@ _26 TILs and the tally keeps climbing._
 ### Categories
 
 * [Bookkeeping](#Bookkeeping)
+* [Financial Accounting](#financial-accounting)
 * [Financial Analysis](#financial-analysis)
 * [Excel](#Excel)
 * [Month End](#Month-End)
