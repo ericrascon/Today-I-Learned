@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings as I make progress towards my CPA. What better way than to keep it in a public repository? 
 
-_25 TILs and the tally keeps climbing._
+_26 TILs and the tally keeps climbing._
 
 ---
 
@@ -25,6 +25,9 @@ _25 TILs and the tally keeps climbing._
 - [Double Entry Cheat Sheet](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Double%20Entry%20Cheat%20Sheet.md)
 - [General Ledger](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/General%20Ledger.md)
 - [Journal Entries](https://github.com/ericrascon/Today-I-Learned/blob/main/Bookkeeping/Journal%20Entries.md)
+
+ ### Financial Accounting 
+ - [Types of Assets](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Accounting/Types%20of%20Assets.md)
 
 ### Financial Analysis
 - [Favorable vs Unfavorable Variance](https://github.com/ericrascon/Today-I-Learned/blob/main/Financial%20Analysis/Variance%20Analysis.md)
