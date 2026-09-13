@@ -12,5 +12,7 @@ The balance sheet is a financial statement that evaluates a company's financial 
 # Sources
 
 https://www.investopedia.com/terms/b/balancesheet.asp
+
 http://www.quickmba.com/accounting/fin/statements/
+
 https://corporatefinanceinstitute.com/resources/accounting/balance-sheet/
