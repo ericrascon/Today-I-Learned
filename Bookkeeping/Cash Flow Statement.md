@@ -4,7 +4,7 @@ The cash flow statement shows how cash  moves in and out of a business for a giv
 
 A company will typically have their cash generated from 3 different sections in a cash flow (sometimes more).
 
-Operating Cash Flow: A operating activity showcases the revenue generated from sales, purchases, and other expenses.
+Operating Cash Flow: A operating activity showcases the cash generated or bused by a company's business operations, such as collecting cash from customers and paying suppliers, employees, and operating expenses. 
 
 Investing Cash Flow: An investing activity showcases the cash flow of buying or selling property, plants, equipment, along with non-current assets, and financial assets.
 
