@@ -10,6 +10,12 @@ Investing Cash Flow: An investing activity showcases the cash flow of buying or 
 
 Financing Cash Flow: The financing activity showcases the cash flow of burrowing or repaying loans and issuing or buying back stocks.
 
+## Examples
+
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/feec65e9-5dcd-432c-b10b-8c3e70c5bef6" />
+
+<img width="1024" height="625" alt="image" src="https://github.com/user-attachments/assets/d86193f9-d037-4a4a-abe7-654455b726c4" />
+
 # Sources
 
 https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows/
