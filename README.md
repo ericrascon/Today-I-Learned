@@ -4,7 +4,7 @@
 
 Welcome to my Second Brain of Accounting & Finance Thinking. This is a collection to quickly capture my daily Accounting Learnings as I make progress towards my CPA. What better way than to keep it in a public repository? 
 
-_28 TILs and the tally keeps climbing._
+_29 TILs and the tally keeps climbing._
 
 ---
 
@@ -38,6 +38,7 @@ _28 TILs and the tally keeps climbing._
 
 ### Excel
 
+- [Focus Cell & Auto Highlight](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/Focus%20Cell%20%26%20Auto%20Highlight.md)
 - [GROUPBY](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/GROUPBY.md)
 - [LEFT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/LEFT.md)
 - [RIGHT](https://github.com/ericrascon/Today-I-Learned/blob/main/Excel/RIGHT.md)
