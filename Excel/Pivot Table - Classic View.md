@@ -1,6 +1,6 @@
 # How To Create Classic Pivot Table View 
 
-Once you've created your Pivot Table hit right click/Display/Check "Classic PivotTable layout".
+Once you've created your Pivot Table hit right click/Pivot Table Options/Display/Check "Classic PivotTable layout".
 
 This brings bring back the Classic view which allows you physically drag the columns and rows onto the Pivot Table itself instead of the menu on the bottom right. 
 
